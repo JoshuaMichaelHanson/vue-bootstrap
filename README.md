@@ -1,6 +1,6 @@
-This is a Vue 2 and Bootstrap 4 base project that can be run on Glitch
-Modify the vue.config.js
-public: 'your-name.glitch.me:3000'
+This is a Vue 2 and Bootstrap 4 base project that can be run on Glitch <br/>
+Modify the vue.config.js <br/>
+public: 'your-name.glitch.me:3000' <br/>
 
 # vue-express-sqlite
 
